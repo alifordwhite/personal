@@ -1,0 +1,35 @@
+.pacifico {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    }
+
+.merriweather-light {
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1rem;
+    }
+
+.image {
+    width: 100px;
+    height: 100px;
+}
+
+.top-container {
+    position: relative;
+    padding-top: 100px; 
+    display: flex;
+    width: 100%;
+    background-color: pink;
+}
+
+.middle-container {
+    display: grid;
+    width: 100%;
+    justify-content: space-around;
+}
+
+
+
+
